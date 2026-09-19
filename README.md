@@ -1,7 +1,4 @@
 # Ex04 Simple Calculator - React Project
-## Date:31-08-2026
-## Name : MANIKNADAN M
-## Reg No :212224040183
 
 ## AIM
 To  develop a Simple Calculator using React.js with clean and responsive design, ensuring a smooth user experience across different screen sizes.
